@@ -1,0 +1,12 @@
+[AdBlockPlus 2.0]
+!
+! Version: 2023 
+! Title: Cosmetic filters for some websites I have bookarked
+!
+! Version: 2023.11.30
+! Expires: 365 days 
+!
+! For my persomal use accross devices in our household, it cleans up the left overw when used with:!
+! a) AdGuard base filter optimized (with EasyList): https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+! b) Magnolia's bypass paywalls: https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
+!
